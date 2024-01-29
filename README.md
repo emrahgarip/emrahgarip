@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emrahgarip
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript frameworks(react, nextjs)
 - 📫 How to reach me mail@emrahgarip.com or mrhgrp@gmail.com
 
 <!---
